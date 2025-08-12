@@ -1,1 +1,33 @@
 # Dashboard screenshots and exports
+1. Trend Analysis
+Temperature trends over time (monthly/yearly)
+Rainfall patterns across seasons
+Long-term climate change indicators
+
+
+2. Anomaly Detection
+Identify unusually hot/cold days
+Detect extreme weather events (e.g., storms, droughts)
+
+
+3. Seasonal Analysis
+Compare climate metrics across seasons
+Visualize average temperature and rainfall by month
+
+
+4. Geospatial Analysis
+Compare climate data across regions or cities
+Map temperature or precipitation using heatmaps
+
+
+5. Correlation Analysis
+Relationship between temperature and humidity
+Impact of wind speed on temperature or rainfall
+
+
+6. Forecasting (Optional)
+Use time series models (ARIMA, Prophet) to predict future temperature or rainfall
+
+
+7. Dashboard Creation
+Build interactive dashboards using Power BI, Tableau, or Python (Plotly/Dash)
